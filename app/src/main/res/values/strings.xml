@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Consultas</string>
+    <string name="paciente">Paciente</string>
+    <string name="medico">Medico</string>
+    <string name="consulta">Consultas</string>
+    <string name="gerenciar_medicos">Gerenciar Médicos</string>
+    <string name="gerenciar_consultas">Gerenciar Consultas</string>
+    <string name="listar">Listar</string>
+    <string name="adicionar">Adicionar</string>
+</resources>
