@@ -1,3 +1,9 @@
+EN -
+M2 assignment - Programming for mobile devices.
+
+🖥 Assignment for M2 - Native java app development for android 🤖 with focus on query management.
+
+PT-br
 # TrabalhoDispositiveisMoveisM2
 Trabalho M2 - Programação para dispositivos móveis.
 
